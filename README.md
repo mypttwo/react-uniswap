@@ -1,3 +1,8 @@
+## Intent
+Created this just to understand how react interacts with the [Uniswap](https://github.com/Uniswap/uniswap-sdk) sdk
+reference : [EatTheBlocks Tutorial](https://www.youtube.com/watch?v=0Im5iaYoz1Y&list=PLbbtODcOYIoGC8c5-gs0EYzpYVUPdmqO3&index=10)
+
+## Usual Other Stuff
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
